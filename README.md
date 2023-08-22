@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 👋 Hello There, I’m Aaron
+- ⚡ I'm Senior System Engineer for Unified Endpoint Management with focus in Microsoft Intune
+- 👀 I’m interested in Unified Endpoint Management | M365 | Modern Device Management | Identity and Access Management | Modern Workplace | Modern Device Management | MSFT Security
+
 <!--
 **ajmenzel7788/ajmenzel7788** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
