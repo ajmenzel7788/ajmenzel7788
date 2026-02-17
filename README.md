@@ -1,7 +1,7 @@
 ### Hi
 
 - 👋 Hello There, I’m Aaron
-- ⚡ I'm Senior System Engineer / Solution Architect for Unified Endpoint Management with focus in Microsoft Intune
+- ⚡ I'm Senior System Engineer / Solution Architect for Unified Endpoint Management with focus in Microsoft Intune.
 - 👀 I’m interested in Unified Endpoint Management | M365 | Modern Device Management | Identity and Access Management | MSFT Security
 - 🇩🇪 Based in Germany
 
